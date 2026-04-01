@@ -1,14 +1,22 @@
-# data-engineering-journey
-My learning journey to become a Data Engineer
+# Data Engineering Journey
 
-## Focus
-- SQL
-- Python
-- data engineering fundamentals
-- practical exercises and projects
+This repository tracks my progress toward becoming job-ready for a Data Engineering role.
 
-## Approach
+## Current focus
+- SQL fundamentals
+- hands-on practice
+- building strong foundations step by step
+
+## Repository structure
+- `sql/` for SQL exercises and practice
+- `python/` for Python fundamentals and scripts
+- `projects/` for end-to-end portfolio projects
+
+## Learning approach
 - 20% theory
 - 80% practice
-- strong fundamentals
 - consistent progress
+- focus on understanding, not skipping fundamentals
+
+## Goal
+Build the skills, discipline, and portfolio needed to transition into Data Engineering.
